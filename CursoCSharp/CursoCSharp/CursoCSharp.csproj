@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
+    <Compile Include="Fundamentos\Inferencia.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
     <Compile Include="Program.cs" />
