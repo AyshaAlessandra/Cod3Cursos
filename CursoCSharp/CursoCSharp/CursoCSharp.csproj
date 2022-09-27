@@ -47,6 +47,7 @@
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Inferencia.cs" />
     <Compile Include="Fundamentos\Interpolacao.cs" />
+    <Compile Include="Fundamentos\LendoDados.cs" />
     <Compile Include="Fundamentos\NotacaoPonto.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
