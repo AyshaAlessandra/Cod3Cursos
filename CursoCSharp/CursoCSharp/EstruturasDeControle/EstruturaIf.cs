@@ -27,13 +27,11 @@ namespace CursoCSharp.EstruturasDeControle
 
             bomComportamento = entrada.ToLower().First() == 's';
 
-            if (nota > 10.0 || nota < 0)
-            {
+            if (nota > 10.0 || nota < 0) {
                 Console.WriteLine("A nota não pode ser maior que 10 e negativa!");
             };
 
-            if (nota >= 9.0 && bomComportamento)
-            {
+            if (nota >= 9.0 && bomComportamento) {
                 Console.WriteLine("Quadro de honra!");
             };
         }
