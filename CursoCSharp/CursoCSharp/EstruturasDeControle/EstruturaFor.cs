@@ -13,6 +13,11 @@ namespace CursoCSharp.EstruturasDeControle
             //for (int i = 1; i <= 10; i++) {
             //    Console.WriteLine($"O valor de i é: {i}");
             //}
+            
+            //For começando de trás para frente.
+            //for(int i = 10; i >= 1; i--) {
+            //    Console.WriteLine($"O valor de i é: {i}");
+            //}
 
             double somatorio = 0;
             string entrada;

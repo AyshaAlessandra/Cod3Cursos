@@ -46,6 +46,7 @@
     <Compile Include="CentralDeExercicios.cs" />
     <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
+    <Compile Include="EstruturasDeControle\EstruturaForEach.cs" />
     <Compile Include="EstruturasDeControle\EstruturaIf.cs" />
     <Compile Include="EstruturasDeControle\EstruturaIfElse.cs" />
     <Compile Include="EstruturasDeControle\EstruturaIfElseIf.cs" />
