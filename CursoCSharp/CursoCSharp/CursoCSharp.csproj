@@ -52,6 +52,7 @@
     <Compile Include="EstruturasDeControle\EstruturaIfElseIf.cs" />
     <Compile Include="EstruturasDeControle\EstruturaSwitch.cs" />
     <Compile Include="EstruturasDeControle\EstruturaWhile.cs" />
+    <Compile Include="EstruturasDeControle\UsandoBreack.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Conversoes.cs" />
     <Compile Include="Fundamentos\FormatandoNumero.cs" />
