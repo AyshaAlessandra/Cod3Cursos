@@ -47,6 +47,7 @@
     <Compile Include="ClassesEMetodos\AtributosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Construtores.cs" />
     <Compile Include="ClassesEMetodos\DesafioAtributo.cs" />
+    <Compile Include="ClassesEMetodos\GetSet.cs" />
     <Compile Include="ClassesEMetodos\Membros.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
