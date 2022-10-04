@@ -7,9 +7,15 @@ using System.Threading.Tasks;
 namespace CursoCSharp.ClassesEMetodos
 {
     public class Cliente
-    {
+    {/*Para usar a const, precisa inicializa -lá. Como estou inicializando no construtor
+      * usei o readonly, ele é imutável assim que setar algo. A const é avaliado no tempo de
+      * compilação do programa por isso precisa inicializa-la com algum valor. 
+      * A readonly é avaliado no tempo de execução do programa, então não precisa inicializar
+      * com um valor.
+      */
+
         public string Nome;
-        private DateTime Nascimento;
+        readonly DateTime Nascimento;
 
         public Cliente(string nome, DateTime nascimento)
         {
