@@ -47,6 +47,7 @@
     <Compile Include="ClassesEMetodos\Construtores.cs" />
     <Compile Include="ClassesEMetodos\Membros.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
+    <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
     <Compile Include="ClassesEMetodos\Pessoa.cs" />
     <Compile Include="EstruturasDeControle\EstruturaDoWhile.cs" />
     <Compile Include="EstruturasDeControle\EstruturaFor.cs" />
