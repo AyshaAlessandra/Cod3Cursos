@@ -9,7 +9,7 @@ namespace CursoCSharp.ClassesEMetodos
     public class CalculadoraEstatica
     {
         //se o atributo for transformado em estático,em vez dele pertencer a cada uma das
-        //instância, ele irá pertencer a classe, com isso, ele vai ter uma única cópia,
+        //instâncias ou objeto, ele irá pertencer a classe, com isso, ele vai ter uma única cópia,
         //ou seja, ele vai ter um único valor compartilhado na memória.
 
         //Método de instância
