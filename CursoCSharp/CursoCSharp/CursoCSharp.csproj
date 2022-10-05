@@ -52,6 +52,7 @@
     <Compile Include="ClassesEMetodos\Membros.cs" />
     <Compile Include="ClassesEMetodos\MetodosComRetorno.cs" />
     <Compile Include="ClassesEMetodos\MetodosEstaticos.cs" />
+    <Compile Include="ClassesEMetodos\ParametroPadrao.cs" />
     <Compile Include="ClassesEMetodos\ParametrosNomeados.cs" />
     <Compile Include="ClassesEMetodos\ParametrosPorReferencia.cs" />
     <Compile Include="ClassesEMetodos\Params.cs" />
