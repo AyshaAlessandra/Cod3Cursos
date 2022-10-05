@@ -65,6 +65,7 @@
     <Compile Include="Colecoes\Array.cs" />
     <Compile Include="Colecoes\ColecaesStack.cs" />
     <Compile Include="Colecoes\ColecoesArrayList.cs" />
+    <Compile Include="Colecoes\ColecoesDictionary.cs" />
     <Compile Include="Colecoes\ColecoesQueue.cs" />
     <Compile Include="Colecoes\ColecoesSet .cs" />
     <Compile Include="Colecoes\ColecoesList.cs" />
