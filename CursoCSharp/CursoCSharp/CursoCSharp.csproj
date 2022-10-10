@@ -99,6 +99,7 @@
     <Compile Include="MetodosEFuncoes\DelegatesComoParametros.cs" />
     <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
     <Compile Include="MetodosEFuncoes\LambdasDelegate.cs" />
+    <Compile Include="MetodosEFuncoes\MetodosDeExtensao.cs" />
     <Compile Include="MetodosEFuncoes\UsandoDelegates.cs" />
     <Compile Include="OO\Abstract.cs" />
     <Compile Include="OO\ConstrutorThis.cs" />
