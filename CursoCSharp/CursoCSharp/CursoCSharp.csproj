@@ -97,6 +97,7 @@
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
     <Compile Include="MetodosEFuncoes\ExemploLambda.cs" />
     <Compile Include="MetodosEFuncoes\LambdasDelegate.cs" />
+    <Compile Include="MetodosEFuncoes\UsandoDelegates.cs" />
     <Compile Include="OO\Abstract.cs" />
     <Compile Include="OO\ConstrutorThis.cs" />
     <Compile Include="OO\Encapsulamento.cs" />
