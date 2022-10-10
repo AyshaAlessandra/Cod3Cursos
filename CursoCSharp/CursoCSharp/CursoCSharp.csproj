@@ -80,6 +80,7 @@
     <Compile Include="EstruturasDeControle\EstruturaWhile.cs" />
     <Compile Include="EstruturasDeControle\UsandoBreack.cs" />
     <Compile Include="EstruturasDeControle\UsandoContinue.cs" />
+    <Compile Include="Excecoes\ExcecoesPersonalizadas.cs" />
     <Compile Include="Excecoes\PrimieraExcecao.cs" />
     <Compile Include="Fundamentos\Comentarios.cs" />
     <Compile Include="Fundamentos\Conversoes.cs" />
