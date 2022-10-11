@@ -46,6 +46,7 @@
     <Compile Include="Api\Diretorios.cs" />
     <Compile Include="Api\ExemploDirectoryInfo.cs" />
     <Compile Include="Api\ExemploFileInfo.cs" />
+    <Compile Include="Api\ExemploPath.cs" />
     <Compile Include="Api\LendoArquivos.cs" />
     <Compile Include="Api\PrimeiroArquivo.cs" />
     <Compile Include="CentralDeExercicios.cs" />
