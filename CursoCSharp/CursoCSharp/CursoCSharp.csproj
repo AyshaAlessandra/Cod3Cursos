@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api\Diretorios.cs" />
     <Compile Include="Api\ExemploFileInfo.cs" />
     <Compile Include="Api\LendoArquivos.cs" />
     <Compile Include="Api\PrimeiroArquivo.cs" />
