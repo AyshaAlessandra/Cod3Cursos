@@ -120,6 +120,7 @@
     <Compile Include="OO\Sealed.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopicosAvancados\Dynamics.cs" />
     <Compile Include="TopicosAvancados\LINQ1.cs" />
     <Compile Include="TopicosAvancados\LINQ2.cs" />
     <Compile Include="TopicosAvancados\Nullables.cs" />
